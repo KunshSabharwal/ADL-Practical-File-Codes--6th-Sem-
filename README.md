@@ -7,3 +7,7 @@
 ## Practical 2 - 27/1/26
 
 - Neural Network on IMDB Dataset
+
+## Practical 3 - 10/2/26
+
+- Reuters Dataset News-Wire classification
