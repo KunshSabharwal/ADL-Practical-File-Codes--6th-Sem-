@@ -11,3 +11,7 @@
 ## Practical 3 - 10/2/26
 
 - Reuters Dataset News-Wire classification
+
+## Practical 4 - 17/2/26
+
+- House Price Prediction on Boston Housing Dataset
