@@ -15,3 +15,7 @@
 ## Practical 4 - 17/2/26
 
 - House Price Prediction on Boston Housing Dataset
+
+## Practical 5 - 24/2/26
+
+- CNN on MNIST Dataset
